@@ -6,7 +6,8 @@ Beberapa CRUD menggunakan modal dan AJAX untuk pengambilan data agar mengurangi 
 
 **Penting**: Akan dilakukan rewrite seluruh modul. Untuk sekarang masih dalam tahap development di branch __rewrite/main__.
 
-### Prasyarat
+### Prasyarat![Sahril flowchart](https://github.com/SahrilNurFerdiansyah123/Sistem-Uang-Kas/assets/152600300/870c4879-b021-4668-9104-e0d26eb80343)
+
 
 Berikut beberapa hal yang perlu diinstal terlebih dahulu:
 
