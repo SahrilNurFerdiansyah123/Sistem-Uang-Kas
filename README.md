@@ -8,8 +8,7 @@ Hubungan database uang kas adalah hubungan antara data yang disimpan dalam siste
 Contoh hubungan database uang kas dapat dilihat pada gambar yang Anda kirimkan. Gambar tersebut menunjukkan sebuah screenshot dari phpMyAdmin, yaitu sebuah aplikasi web yang digunakan untuk mengelola database MySQL. Database yang ditampilkan dalam gambar memiliki nama “kas”, yang mungkin berisi data tentang uang kas suatu organisasi. Dalam database tersebut, terdapat beberapa tabel, seperti “kas_masuk”, “kas_keluar”, “rekening”, “bank”, dan lain-lain. Tabel-tabel ini saling berhubungan dengan garis dan panah yang menunjukkan kunci primer dan kunci asing dari masing-masing tabel. Kunci primer adalah atribut yang digunakan untuk mengidentifikasi setiap baris dalam tabel secara unik, sedangkan kunci asing adalah atribut yang digunakan untuk menghubungkan tabel dengan tabel lain yang memiliki kunci primer yang sama. Contohnya, tabel “kas_masuk” memiliki kunci primer “id”, yang merupakan nomor urut dari setiap penerimaan kas, dan kunci asing “rekening_id”, yang menghubungkan tabel “kas_masuk” dengan tabel “rekening” yang memiliki kunci primer “id”. Dengan demikian, hubungan database uang kas dapat memberikan informasi lengkap dan terintegrasi tentang transaksi uang kas yang terjadi dalam suatu organisasi.
 
 
-
-![Sahril flowchart](https://github.com/SahrilNurFerdiansyah123/Sistem-Uang-Kas/assets/152600300/49e3019a-14cd-45d5-aaec-f31af8aa9f8a)
+![Sahril flowchart](https://github.com/SahrilNurFerdiansyah123/Sistem-Uang-Kas/assets/152600300/6b81d42e-de51-474e-abaf-83c11139fb71)
 
 Tahapan flowchart sistem uang kas ini adalah sebagai berikut:
 •	Login: Tahap ini adalah tahap awal dimana pelajar harus login ke sistem uang kas dengan menggunakan username dan password yang telah ditentukan.
