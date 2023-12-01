@@ -1,3 +1,4 @@
+![Designer](https://github.com/SahrilNurFerdiansyah123/Sistem-Uang-Kas/assets/152600300/91ba86f2-6ca4-4cfa-a5f0-7de8b466fe98)
 # WANGKAS
 
 Aplikasi pendataan uang kas dibuat dengan Framework Laravel 9. Dengan sistem pembayaran kas sekali selama seminggu. Aplikasi ini cocok untuk digunakan untuk di sekolah atau masing masing kelas. <br>
